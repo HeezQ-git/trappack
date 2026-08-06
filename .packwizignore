@@ -1,0 +1,17 @@
+# Files that live in this repo but must NOT be installed into players' games.
+#
+# packwiz refresh indexes everything under the pack root by default, so without
+# this it shipped README.md, .nojekyll and the build scripts into every
+# player's minecraft folder -- and the install then failed outright when
+# README.md was edited after the last refresh and stopped matching its
+# recorded hash.
+#
+# Only real pack content belongs in the index: mods/, config/, shaderpacks/,
+# resourcepacks/.
+
+README.md
+.nojekyll
+.gitignore
+.packwizignore
+tools/
+.git/

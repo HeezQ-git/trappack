@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".nojekyll"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "README.md"
-hash = "9ae9a6c93c322331c45a2346696bc2943441c0068272a11acadc74d9763777db"
-
-[[files]]
 file = "config/ClickVillagers/config.yml"
 hash = "a137ff55476e550c9558917e00000d0ea53c6696875e589b388d2443b35acf1d"
 
@@ -1747,7 +1739,3 @@ metafile = true
 file = "shaderpacks/makeup-ultrafast-9-5c.pw.toml"
 hash = "ae93006e64956d886a9a92cbaa8b91fd60d1b47cc588a6e60ab6254d47953a37"
 metafile = true
-
-[[files]]
-file = "tools/from_mrpack.py"
-hash = "96678d56d2ada69827a9d835940c4301df74fa27d3ff41f2469e6e0be5e6b78f"
