@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "README.md"
+hash = "9ae9a6c93c322331c45a2346696bc2943441c0068272a11acadc74d9763777db"
+
+[[files]]
 file = "config/ClickVillagers/config.yml"
 hash = "a137ff55476e550c9558917e00000d0ea53c6696875e589b388d2443b35acf1d"
 
@@ -1678,7 +1686,7 @@ metafile = true
 
 [[files]]
 file = "mods/trapcraft-0.1.0.jar"
-hash = "8fa04ef58eb932d0c8d293c30b0c31efc8baaa636ce44f3081a9c88dd4515ce8"
+hash = "bba305ea4f2797941d08b288eef7f23a325ca43204103158180c5c94398bf5b4"
 
 [[files]]
 file = "mods/travelersbackpack-fabric-1-21-8-10-8-4.pw.toml"
