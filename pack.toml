@@ -1,6 +1,6 @@
 name = "TrapPack"
 author = "HeezQ"
-version = "1.0.42"
+version = "1.0.43"
 pack-format = "packwiz:1.1.0"
 
 [index]
