@@ -1,0 +1,12 @@
+name = "mcw-mcwwindows-2.4.2-mc1.21.8fabric"
+filename = "mcw-mcwwindows-2.4.2-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/oHpQ3Bya/mcw-mcwwindows-2.4.2-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "c7a951e51d0014980a91152d2a0612a8e9cc0e33a0babba79363b71abbf8f0b318c78b80ece8fe26e31dc9fc768386052523800cd1b45a5b68744facbf3ac9ee"
+
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "oHpQ3Bya"

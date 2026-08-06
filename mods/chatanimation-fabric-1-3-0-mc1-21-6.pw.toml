@@ -1,0 +1,12 @@
+name = "chatanimation-fabric-1.3.0+mc1.21.6"
+filename = "chatanimation-fabric-1.3.0+mc1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/BU0JIenc/chatanimation-fabric-1.3.0%2Bmc1.21.6.jar"
+hash-format = "sha512"
+hash = "af005994a35756136d5434661e3fe5b702fa6dab911317de2de8121259f8bb626bdd09dd5ab5f20b6b6ebfe96b6a2badcfcba8678991c78d986e16ce81697172"
+
+[update.modrinth]
+mod-id = "DnNYdJsx"
+version = "BU0JIenc"

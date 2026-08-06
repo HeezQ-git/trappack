@@ -1,0 +1,10 @@
+quartzelv:quartz_elevator	inventory_particles:quartz_elevator/glint/glint0_0.png	0	0	8	8
+quartzelv:quartz_elevator	inventory_particles:quartz_elevator/glint/glint0_1.png	8	0	8	8
+quartzelv:quartz_elevator	inventory_particles:quartz_elevator/glint/glint0_2.png	16	0	8	8
+quartzelv:quartz_elevator	inventory_particles:quartz_elevator/glint/glint0_3.png	24	0	8	8
+quartzelv:quartz_elevator	inventory_particles:quartz_elevator/glint/glint0_4.png	32	0	8	8
+quartzelv:smooth_quartz_elevator	inventory_particles:smooth_quartz_elevator/glint/glint0_0.png	40	0	8	8
+quartzelv:smooth_quartz_elevator	inventory_particles:smooth_quartz_elevator/glint/glint0_1.png	48	0	8	8
+quartzelv:smooth_quartz_elevator	inventory_particles:smooth_quartz_elevator/glint/glint0_2.png	56	0	8	8
+quartzelv:smooth_quartz_elevator	inventory_particles:smooth_quartz_elevator/glint/glint0_3.png	64	0	8	8
+quartzelv:smooth_quartz_elevator	inventory_particles:smooth_quartz_elevator/glint/glint0_4.png	72	0	8	8

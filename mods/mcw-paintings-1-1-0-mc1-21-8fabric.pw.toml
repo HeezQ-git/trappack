@@ -1,0 +1,12 @@
+name = "mcw-paintings-1.1.0-mc1.21.8fabric"
+filename = "mcw-paintings-1.1.0-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okE6QVAY/versions/D2ImxgSC/mcw-paintings-1.1.0-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "1e3a396deea4474bc6aa475eb0a44a2162fad446928658892c415ace1af0386ef6f49b78119bf412d7a54617cf56a3cbd0975a63c9d3badfb4bdbad17b9d1d49"
+
+[update.modrinth]
+mod-id = "okE6QVAY"
+version = "D2ImxgSC"

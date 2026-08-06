@@ -1,0 +1,12 @@
+name = "moredelight-patch-25.07.28a-1.21.7"
+filename = "moredelight-patch-25.07.28a-1.21.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R7zLAe7K/versions/qeh62och/moredelight-patch-25.07.28a-1.21.7.jar"
+hash-format = "sha512"
+hash = "6185ace7d9251b554faffe9e35ca987c26b4ca12e032dcd1c86c59944415b3f15ae04e747aca677f96cbad0134c03f9b007837713990e7b55a682e1aa53d2d17"
+
+[update.modrinth]
+mod-id = "R7zLAe7K"
+version = "qeh62och"

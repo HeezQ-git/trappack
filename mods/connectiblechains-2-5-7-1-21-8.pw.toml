@@ -1,0 +1,12 @@
+name = "connectiblechains-2.5.7+1.21.8"
+filename = "connectiblechains-2.5.7+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ykSfIgTw/versions/DO0pujQG/connectiblechains-2.5.7%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "0e9c5771b2ad59c71c880b3e602e4b59c59105b0fad4246a3d7e7b741d7366119ffd6bf23e1f7bbfbc19f6ebb5a78cc16365a85a94069f0cb0026f84ff0010d6"
+
+[update.modrinth]
+mod-id = "ykSfIgTw"
+version = "DO0pujQG"

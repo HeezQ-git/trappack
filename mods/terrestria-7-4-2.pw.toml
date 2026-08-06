@@ -1,0 +1,12 @@
+name = "terrestria-7.4.2"
+filename = "terrestria-7.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/MPUIg0xG/terrestria-7.4.2.jar"
+hash-format = "sha512"
+hash = "db8a2e6534af56ea1a4baf68000e4eaaa26feb5cba16fee3c8603136879c986fbb59ef1b020ed57a04c23249d05c38ccc238ae994e4f4a400f2954dc7b11bd0b"
+
+[update.modrinth]
+mod-id = "lsUDPMOT"
+version = "MPUIg0xG"

@@ -1,0 +1,12 @@
+name = "livingthings-fabric-1.21.8-2.3.0"
+filename = "livingthings-fabric-1.21.8-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UKDLi1GJ/versions/ogTgOj2j/livingthings-fabric-1.21.8-2.3.0.jar"
+hash-format = "sha512"
+hash = "811eef8a67a9a440cc5f961b295a3bcaffa80e4d3a361d2689fe7337cc47251bced973b86e10d2d407efe06ea9714997badfa26d7b2c8d033d51a56818c71aa2"
+
+[update.modrinth]
+mod-id = "UKDLi1GJ"
+version = "ogTgOj2j"

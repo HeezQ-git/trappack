@@ -1,0 +1,12 @@
+name = "mcw-furniture-3.4.1-mc1.21.8fabric"
+filename = "mcw-furniture-3.4.1-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dtWC90iB/versions/3SV2XIB1/mcw-furniture-3.4.1-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "16dbb1c632308241c0299186689cf708ea08e599c93f4224b38e9d6ac0abe37b37500dd26ace7dc48663ad8a1cc0881fb32809afcbe2ab7dbefb6b879674dfab"
+
+[update.modrinth]
+mod-id = "dtWC90iB"
+version = "3SV2XIB1"

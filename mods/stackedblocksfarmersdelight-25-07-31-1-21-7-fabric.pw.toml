@@ -1,0 +1,12 @@
+name = "stackedblocksfarmersdelight-25.07.31-1.21.7-fabric"
+filename = "stackedblocksfarmersdelight-25.07.31-1.21.7-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQlQFBH9/versions/gu4sF0qC/stackedblocksfarmersdelight-25.07.31-1.21.7-fabric.jar"
+hash-format = "sha512"
+hash = "52f23872aaaf71a79330a83719988bcebb9dc13465b0a00caaa7fe1042552fb73dc779275f811145ced2d6d7cebdcda399cb2c9c341a2d29d1cc37391be96c12"
+
+[update.modrinth]
+mod-id = "LQlQFBH9"
+version = "gu4sF0qC"

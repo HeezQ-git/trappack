@@ -1,0 +1,12 @@
+name = "railoptimization-fabric-mc1.21.5-1.6"
+filename = "railoptimization-fabric-mc1.21.5-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QSvN5pBU/versions/BbmY8K3Y/railoptimization-fabric-mc1.21.5-1.6.jar"
+hash-format = "sha512"
+hash = "7c7e6aa955d78f35a2668338182895b84bbef242b517a7f9daae22df0789fe0d9bccfec06dca1338117a0eb3b6eab5c1f709a8ada020fe6f6f3465c19280c9e9"
+
+[update.modrinth]
+mod-id = "QSvN5pBU"
+version = "BbmY8K3Y"

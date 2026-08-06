@@ -1,0 +1,12 @@
+name = "storagedelight-patch-25.07.32-1.21.6-fabric"
+filename = "storagedelight-patch-25.07.32-1.21.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EnNzknvx/versions/F1BInayy/storagedelight-patch-25.07.32-1.21.6-fabric.jar"
+hash-format = "sha512"
+hash = "82cdbf2db368138f0d7f5511de1614ee0b4824beb01ae275c6b8a3e3ef029159375cb26012927c35af0ca1e126935c80ccd5b9a79e8010f507043390785194e3"
+
+[update.modrinth]
+mod-id = "EnNzknvx"
+version = "F1BInayy"

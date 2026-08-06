@@ -1,0 +1,12 @@
+name = "borukva-food-exotic-0.1.6+1.21.6"
+filename = "borukva-food-exotic-0.1.6+1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/odwLjifj/versions/w9ah2zYx/borukva-food-exotic-0.1.6%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "698c4602294146967ed656f26d15f255d617c8f2f145827b8103ee9b27bdb744924daea3d51f44bb84934939d5c76b5500065ca885f3b083a9860d600ae32349"
+
+[update.modrinth]
+mod-id = "odwLjifj"
+version = "w9ah2zYx"

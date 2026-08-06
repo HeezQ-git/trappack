@@ -1,0 +1,12 @@
+name = "jer-fabric-1.0.4"
+filename = "jer-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pQiUtpPY/versions/vFfcwXhg/jer-fabric-1.0.4.jar"
+hash-format = "sha512"
+hash = "ebfac6792846710b649178e5e854990dc1c45069c47ab4fcbbb3b3d4bf93fc0208c0661f39cd1e1277f37fcaf42c343b2b1a37599f237a50ff92889b271153f9"
+
+[update.modrinth]
+mod-id = "pQiUtpPY"
+version = "vFfcwXhg"

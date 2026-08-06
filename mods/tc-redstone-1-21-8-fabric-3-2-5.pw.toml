@@ -1,0 +1,12 @@
+name = "TC-Redstone-1.21.8-Fabric-3.2.5"
+filename = "TC-Redstone-1.21.8-Fabric-3.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rMlghquR/versions/rUwpz8b1/TC-Redstone-1.21.8-Fabric-3.2.5.jar"
+hash-format = "sha512"
+hash = "7b40817c9f56412cb20143038b0ea6b3eaf9a7bc04501c78c9b9e6e60b3f2d7d3f54a3291ebb618f3d2fc57a8910d8d3836214c5fab2a64efdb41d8c52b8475d"
+
+[update.modrinth]
+mod-id = "rMlghquR"
+version = "rUwpz8b1"

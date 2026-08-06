@@ -1,0 +1,12 @@
+name = "farm-3x3-2.2.0"
+filename = "farm-3x3-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNHrBKWb/versions/ox91l8FZ/farm-3x3-2.2.0.jar"
+hash-format = "sha512"
+hash = "899463b0c1f55c5a31136a97da2c9b8eb995f0e73e2e477f70b70b5f82b61ab55e4fe03f702808a5e0cb04ec24055b8ac09b32d498db14d807f298b3a6d96b3c"
+
+[update.modrinth]
+mod-id = "cNHrBKWb"
+version = "ox91l8FZ"

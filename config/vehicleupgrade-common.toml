@@ -1,0 +1,10 @@
+#Prevent a slower block breaking speed caused by the player not standing on the ground while riding any vehicle.
+#Default Value: true
+#Requires Restart: Game
+remove_passenger_mining_speed_malus = true
+
+[horse]
+	#Set the step height for all horses above one block to be able to run up from path blocks, farmland, etc.
+	#Default Value: true
+	#Requires Restart: Game
+	increase_horse_step_height = true

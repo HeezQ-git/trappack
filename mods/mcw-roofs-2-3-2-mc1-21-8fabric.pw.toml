@@ -1,0 +1,12 @@
+name = "mcw-roofs-2.3.2-mc1.21.8fabric"
+filename = "mcw-roofs-2.3.2-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/J2Aoq92f/mcw-roofs-2.3.2-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "da471cf93afd59def5f877adfa582c10a74dedbac24b973a759739725fa3242168968da526af98faf98581eea571083e71fdf1104c4feae4538e5cd4dac5873e"
+
+[update.modrinth]
+mod-id = "B8jaH3P1"
+version = "J2Aoq92f"

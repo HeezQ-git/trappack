@@ -1,0 +1,12 @@
+name = "stackedblocks-patch-25.07.04-1.21.5"
+filename = "stackedblocks-patch-25.07.04-1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5WpXj5SO/versions/30gxh5GT/stackedblocks-patch-25.07.04-1.21.5.jar"
+hash-format = "sha512"
+hash = "bb146b0efe175340a4df152ea374738439a8fde5fb748308301959b45a56c9c473a6bed77487c138ae412276cda42a2c36843512b11d41389014c261e5905890"
+
+[update.modrinth]
+mod-id = "5WpXj5SO"
+version = "30gxh5GT"

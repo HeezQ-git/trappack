@@ -1,0 +1,12 @@
+name = "farmers-cutting-biomes-o-plenty-1.21.8-4.0-fabric"
+filename = "farmers-cutting-biomes-o-plenty-1.21.8-4.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QWfaJXEc/versions/y5rFSj8s/farmers-cutting-biomes-o-plenty-1.21.8-4.0-fabric.jar"
+hash-format = "sha512"
+hash = "e02a376668856c1d40b2f9081993dffabc66ab282c041d9676b1bb204a81c261d4991e2e438a338508f8a91ac0f34763bba46ff2415316d971a7720624f7c167"
+
+[update.modrinth]
+mod-id = "QWfaJXEc"
+version = "y5rFSj8s"

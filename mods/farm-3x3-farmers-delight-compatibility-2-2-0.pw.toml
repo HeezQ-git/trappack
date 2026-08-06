@@ -1,0 +1,12 @@
+name = "farm-3x3-farmers-delight-compatibility-2.2.0"
+filename = "farm-3x3-farmers-delight-compatibility-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gDrMYkTU/versions/Lu901ODD/farm-3x3-farmers-delight-compatibility-2.2.0.jar"
+hash-format = "sha512"
+hash = "3a1fd74123d1b96a931b0b0b289f6af89fc29bca48323b49b21c614c34afaff5c60e5ca25e732915a45c1c98bebb34b2ae779ad8e0f6064f3d72ad3aac35e0e1"
+
+[update.modrinth]
+mod-id = "gDrMYkTU"
+version = "Lu901ODD"

@@ -1,0 +1,12 @@
+name = "tenseambience-1.18.2-1.21.8-FABRIC-2.0.0"
+filename = "tenseambience-1.18.2-1.21.8-FABRIC-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qIVVBj8/versions/ScuqVfg0/tenseambience-1.18.2-1.21.8-FABRIC-2.0.0.jar"
+hash-format = "sha512"
+hash = "4655e4ee12692969d429718c0731b30f8b07989999dd4fc919e3069b26468cebf0a481da28d2f512269d9d60030c5b50d2d49f8184cfad3f2090263c4a3e37da"
+
+[update.modrinth]
+mod-id = "9qIVVBj8"
+version = "ScuqVfg0"

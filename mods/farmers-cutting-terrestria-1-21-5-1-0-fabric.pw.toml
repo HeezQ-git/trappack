@@ -1,0 +1,12 @@
+name = "farmers-cutting-terrestria-1.21.5-1.0-fabric"
+filename = "farmers-cutting-terrestria-1.21.5-1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9SF7gvga/versions/s5s3FTs0/farmers-cutting-terrestria-1.21.5-1.0-fabric.jar"
+hash-format = "sha512"
+hash = "481bd7ecd9aa377662c5ec33c385f4b67d5fe8d781a46a8ff59f5740842ce36c9ab389c577734fe23995fd7ac41485a14b924b73fa257427c242eec6809e41f0"
+
+[update.modrinth]
+mod-id = "9SF7gvga"
+version = "s5s3FTs0"

@@ -1,0 +1,12 @@
+name = "obsidianequipmentrework-fabric-0.4+mc1.21.5"
+filename = "obsidianequipmentrework-fabric-0.4+mc1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F0yI8Qcm/versions/AkERnm5Y/obsidianequipmentrework-fabric-0.4%2Bmc1.21.5.jar"
+hash-format = "sha512"
+hash = "dd603da803878ba372f17d1eb0e88ae4cad42b6544c6ab66d03d4015ff3f09e19f09c4123902e7769df0b406e8e06ba446a49f3f91f6a90cc43e2d31eda694b4"
+
+[update.modrinth]
+mod-id = "F0yI8Qcm"
+version = "AkERnm5Y"

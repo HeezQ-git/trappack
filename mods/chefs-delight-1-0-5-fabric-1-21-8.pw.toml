@@ -1,0 +1,12 @@
+name = "chefs-delight-1.0.5-fabric-1.21.8"
+filename = "chefs-delight-1.0.5-fabric-1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pvcsfne4/versions/GueFYIHP/chefs-delight-1.0.5-fabric-1.21.8.jar"
+hash-format = "sha512"
+hash = "3f0ee8319d69ea67cd18efae5b45882ba03e99226dbe19abb8fecf259ae690c26e446541a1fbf046d48655ec7d3b7e0b607b1bfab703961e5e1992f9a902d065"
+
+[update.modrinth]
+mod-id = "pvcsfne4"
+version = "GueFYIHP"

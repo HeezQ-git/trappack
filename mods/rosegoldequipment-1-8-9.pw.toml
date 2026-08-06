@@ -1,0 +1,12 @@
+name = "rosegoldequipment-1.8.9"
+filename = "rosegoldequipment-1.8.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZpZffQVs/versions/LLEI8jcf/rosegoldequipment-1.8.9.jar"
+hash-format = "sha512"
+hash = "5208956ccec773453ac4175e464907999de19c267219e3909dea486829656e52e9a73a52b3ba4a631bcf9424398f5fbb2bec14f95eb46db5980818d79cf15871"
+
+[update.modrinth]
+mod-id = "ZpZffQVs"
+version = "LLEI8jcf"

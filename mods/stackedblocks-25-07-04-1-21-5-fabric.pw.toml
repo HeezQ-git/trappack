@@ -1,0 +1,12 @@
+name = "stackedblocks-25.07.04-1.21.5-fabric"
+filename = "stackedblocks-25.07.04-1.21.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UYrNpKJN/versions/fLvABXp2/stackedblocks-25.07.04-1.21.5-fabric.jar"
+hash-format = "sha512"
+hash = "d00a258230193c8671af52556187fa9c3b7ebc35f16ed75c7e93796da11eaafac0a7fdadc4c538c6e848bb579c8be0aee1c1fe375bc5c9f53c75b171ab85fe8c"
+
+[update.modrinth]
+mod-id = "UYrNpKJN"
+version = "fLvABXp2"

@@ -1,0 +1,12 @@
+name = "gardeners-dream-2.2"
+filename = "gardeners-dream-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cPfmk5E3/versions/PtHN9wKV/gardeners-dream-2.2.jar"
+hash-format = "sha512"
+hash = "8ca05e0c32953a214efef4a8ee650c2c0efc0c77362bc5b46a4823bee9567805c2423290ad612435b03a2e64479d8217b42a22b8f84b14d1c3f36bc29d594208"
+
+[update.modrinth]
+mod-id = "cPfmk5E3"
+version = "PtHN9wKV"

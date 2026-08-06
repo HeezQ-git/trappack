@@ -1,0 +1,12 @@
+name = "farmers-cutting-collection-1.21.8-3.0-fabric"
+filename = "farmers-cutting-collection-1.21.8-3.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bApGjY4X/versions/2nFdn07Q/farmers-cutting-collection-1.21.8-3.0-fabric.jar"
+hash-format = "sha512"
+hash = "06f080d98e01997db14a3a2f3a3cbaa78706b1e426441db1fbb1bcc23ebf63783e60f96e8aa728970c1180fc2fc0cfb214447d1a0d297ce84d244218f578eed1"
+
+[update.modrinth]
+mod-id = "bApGjY4X"
+version = "2nFdn07Q"

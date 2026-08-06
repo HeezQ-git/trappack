@@ -1,0 +1,12 @@
+name = "VehicleUpgrade-v21.8.1-1.21.8-Fabric"
+filename = "VehicleUpgrade-v21.8.1-1.21.8-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9B9c6QcJ/versions/lw0zXBJb/VehicleUpgrade-v21.8.1-1.21.8-Fabric.jar"
+hash-format = "sha512"
+hash = "1ca6c92110a0695cc553b5b5ab19cd1597eb0b5603c5bd99765f6fd07dbfefd5a15b4a62469f429d1ce5b466082224bf786a62311f1021a64aa0418c2fa44945"
+
+[update.modrinth]
+mod-id = "9B9c6QcJ"
+version = "lw0zXBJb"

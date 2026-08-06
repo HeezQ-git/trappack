@@ -1,0 +1,12 @@
+name = "xaerominimap-fabric-1.21.8-26.4.2"
+filename = "xaerominimap-fabric-1.21.8-26.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/qcQIILFO/xaerominimap-fabric-1.21.8-26.4.2.jar"
+hash-format = "sha512"
+hash = "f21cddf61c4a6b4ab783fbce9580fdd88c5953a750a34f7435f96ac8a947b1d3d21404f444c43f69bf3584b9f22c85fbaa0322df902a4d973232e11f96d2036e"
+
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "qcQIILFO"

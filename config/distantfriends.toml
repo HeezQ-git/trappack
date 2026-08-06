@@ -1,0 +1,8 @@
+[general]
+friends = ["darkosto", "shynieke", "mrbysco"]
+addWhitelistPlayers = true
+[compat]
+playerMobsCompat = false
+playerMobsWhitelist = []
+[spawning]
+spawnWeight = 20

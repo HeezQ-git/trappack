@@ -1,0 +1,12 @@
+name = "custom-crops-1.1.0"
+filename = "custom-crops-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nn1lRyR2/versions/jfjcKsKf/custom-crops-1.1.0.jar"
+hash-format = "sha512"
+hash = "55702d60002823d44df633eb24e7ac3de5fb4d226e95bec168140bc8bc8454fea83fee934cd5bca1e54292ba651ce056e3487a36c6b1d72b2ef38d846a8d6793"
+
+[update.modrinth]
+mod-id = "nn1lRyR2"
+version = "jfjcKsKf"

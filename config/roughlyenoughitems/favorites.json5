@@ -1,0 +1,18 @@
+{
+	"favorites": [
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"promenade:stripped_sakura_wood\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spruce_trapdoor\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:wooden_axe\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stripped_spruce_wood\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spruce_stairs\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{CategoryID:\"minecraft:plugins/crafting\",Data:{height:2,inputs:[[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}]],location:\"minecraft:oak_trapdoor\",outputs:[[{type:\"minecraft:item\",value:{count:2,id:\"minecraft:oak_trapdoor\"}}]],type:\"minecraft:default/crafting/custom_shaped\",width:3},UUID:\"54837bcf-add8-4d25-987e-18ba3a54abbd\",type:\"roughlyenoughitems:display\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:jungle_planks\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spruce_fence_gate\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{components:{\"minecraft:painting/variant\":\"mcwpaintings:farm_friends\"},count:1,id:\"minecraft:painting\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:birch_fence_gate\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:iron_helmet\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"promenade:stripped_maple_log\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

@@ -1,0 +1,12 @@
+name = "travelersbackpack-fabric-1.21.8-10.8.4"
+filename = "travelersbackpack-fabric-1.21.8-10.8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/P3LjVY8i/travelersbackpack-fabric-1.21.8-10.8.4.jar"
+hash-format = "sha512"
+hash = "aaebc50f3028df466691fccccc832487a9eddbe10f8500c819423279b3c0a86ce0d8a8495570cf879d7fa44e75bde93f0737fc52dc2cee743bafc8ca1726d346"
+
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "P3LjVY8i"

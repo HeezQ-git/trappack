@@ -1,0 +1,12 @@
+name = "choppers-delight-port-0.1.0+1.21.8-pre-1"
+filename = "choppers-delight-port-0.1.0+1.21.8-pre-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8jKYKu9N/versions/2KHxIBUP/choppers-delight-port-0.1.0%2B1.21.8-pre-1.jar"
+hash-format = "sha512"
+hash = "eb0f5782dec6c133ef287b652b57dbbe8b6ad8469d5248a64b1fe1c369d86d4fc3eb955c9462d245d6b06584109971acb94855a324c5b8b3598b5d5ea45dea26"
+
+[update.modrinth]
+mod-id = "8jKYKu9N"
+version = "2KHxIBUP"

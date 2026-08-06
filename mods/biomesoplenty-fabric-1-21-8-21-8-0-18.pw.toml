@@ -1,0 +1,12 @@
+name = "BiomesOPlenty-fabric-1.21.8-21.8.0.18"
+filename = "BiomesOPlenty-fabric-1.21.8-21.8.0.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/N0tADljF/BiomesOPlenty-fabric-1.21.8-21.8.0.18.jar"
+hash-format = "sha512"
+hash = "3defa14f747aff9ee1639534fa39e028e8cb77b6c79c7fe59eec1c69fca383aa75b85f12cf5c2ca5627662cf850695dc2140e39a4510c51b98f571050a9ca4d2"
+
+[update.modrinth]
+mod-id = "HXF82T3G"
+version = "N0tADljF"

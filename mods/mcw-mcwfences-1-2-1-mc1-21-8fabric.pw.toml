@@ -1,0 +1,12 @@
+name = "mcw-mcwfences-1.2.1-mc1.21.8fabric"
+filename = "mcw-mcwfences-1.2.1-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmwLse2I/versions/Z2jzGt3A/mcw-mcwfences-1.2.1-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "daf76ae04f2a335dfad589941d6eb5e583a395e807c4a0ed05fdfe137a98390993664168a841adccdfa82ffb299cdd9c3bdce4d4c56b05eafa8eb00a91571dd8"
+
+[update.modrinth]
+mod-id = "GmwLse2I"
+version = "Z2jzGt3A"

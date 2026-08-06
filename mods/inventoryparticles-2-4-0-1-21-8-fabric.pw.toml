@@ -1,0 +1,12 @@
+name = "InventoryParticles-2.4.0+1.21.8+fabric"
+filename = "InventoryParticles-2.4.0+1.21.8+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/rKOvJYDJ/InventoryParticles-2.4.0%2B1.21.8%2Bfabric.jar"
+hash-format = "sha512"
+hash = "119bb6b4a50f2560e281293cbe6b4f980f3ba9c4f5ad56abe136550be094c7358243a4c7381071ad40341be7f4b3120c634d91fa14b146117149ac08c1786200"
+
+[update.modrinth]
+mod-id = "XYnKrsxH"
+version = "rKOvJYDJ"

@@ -1,0 +1,12 @@
+name = "cratedelight-patch-25.09.22-1.21.7"
+filename = "cratedelight-patch-25.09.22-1.21.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kUw12L2C/versions/RMvPZ1F7/cratedelight-patch-25.09.22-1.21.7.jar"
+hash-format = "sha512"
+hash = "8138cafb82602e031b55332e7fa1cfe729a2dd75ffc3e7464cd7fb2dd94d133fbeda6139b09046c87cb799b0fbd6cd1043c0ee89b6eb196dcf440545b64be721"
+
+[update.modrinth]
+mod-id = "kUw12L2C"
+version = "RMvPZ1F7"

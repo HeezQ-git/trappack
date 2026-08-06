@@ -1,0 +1,12 @@
+name = "fantazs-emerald-equipment-v1.1.2"
+filename = "fantazs-emerald-equipment-v1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T3vt10wr/versions/auN5AKFA/fantazs-emerald-equipment-v1.1.2.jar"
+hash-format = "sha512"
+hash = "dd7fa5afeeb02404f4c01655200a1725123ddbade1ea9841102324fbef7210e6fd7b090d96784ac062c653879e78fda5b3eddb8abcdce45da8ee80dda808f78d"
+
+[update.modrinth]
+mod-id = "T3vt10wr"
+version = "auN5AKFA"

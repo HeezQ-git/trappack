@@ -1,0 +1,12 @@
+name = "borukva-food-0.1.15+1.21.7"
+filename = "borukva-food-0.1.15+1.21.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l4Fz32NE/versions/prySn85H/borukva-food-0.1.15%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "271941c5f6a75a06300109430f198173e73331a0c213cc6c775ce2cb92f70af8b45cdd7808f1be65a6b54c7589e5b4fd92bae9ed77d532064a50a33ff5dbaab1"
+
+[update.modrinth]
+mod-id = "l4Fz32NE"
+version = "prySn85H"

@@ -1,0 +1,12 @@
+name = "From-The-Fog-Forge-Fabric-1.21.6-1.21.8-v1.11"
+filename = "From-The-Fog-Forge-Fabric-1.21.6-1.21.8-v1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p1WH6sHr/versions/UVXtOQl8/From-The-Fog-Forge-Fabric-1.21.6-1.21.8-v1.11.jar"
+hash-format = "sha512"
+hash = "5fcd93b5fe61fd4e5849694b76d4e0f035bf21898be54a6ddb91554d7c7d6db25cce86209fb65c73f47927b52eab3d66e9753adbb0dc68abb44752f863150fdd"
+
+[update.modrinth]
+mod-id = "p1WH6sHr"
+version = "UVXtOQl8"

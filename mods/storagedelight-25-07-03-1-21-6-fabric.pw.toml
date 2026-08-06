@@ -1,0 +1,12 @@
+name = "storagedelight-25.07.03-1.21.6-fabric"
+filename = "storagedelight-25.07.03-1.21.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/GDoFlyjV/storagedelight-25.07.03-1.21.6-fabric.jar"
+hash-format = "sha512"
+hash = "966dbe8979d7ba4296425bb09609ba5e2d66e3961ccca81dfc371c7c1d34dd3c5067b6865c3a8bb4fdf503a074f8914c7b133f8abf8e49c6b85b05d7da05d167"
+
+[update.modrinth]
+mod-id = "LTTvOp5L"
+version = "GDoFlyjV"

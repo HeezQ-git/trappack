@@ -1,0 +1,12 @@
+name = "moredelight-25.07.28a-1.21.7-fabric"
+filename = "moredelight-25.07.28a-1.21.7-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/NvzpD2uF/moredelight-25.07.28a-1.21.7-fabric.jar"
+hash-format = "sha512"
+hash = "d7fa92477efde567ac40e13e1bac337d82b574a5ce75366a456a1831ed714f1b5112a8b46102586e98c3fa8774c4b92c357d789d75570f120ed01ca9fe03f730"
+
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "NvzpD2uF"

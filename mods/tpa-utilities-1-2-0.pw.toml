@@ -1,0 +1,12 @@
+name = "tpa-utilities-1.2.0"
+filename = "tpa-utilities-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Eg1Wjr2/versions/YG7I089P/tpa-utilities-1.2.0.jar"
+hash-format = "sha512"
+hash = "30166a0af5092814f45f1cc4a5a7ad73f280192275fcd9830a4644e9b125127393ddeabc80090cf2349344308f818cc7d8a1f3c86e9461de900b5cc648632fce"
+
+[update.modrinth]
+mod-id = "4Eg1Wjr2"
+version = "YG7I089P"

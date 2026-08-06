@@ -1,0 +1,12 @@
+name = "spanishdelight-patch-1.21.8-1.0.6"
+filename = "spanishdelight-patch-1.21.8-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hoj0HHPe/versions/QcEgMWSn/spanishdelight-patch-1.21.8-1.0.6.jar"
+hash-format = "sha512"
+hash = "9805a974dab586f532d9910e15af5ec575cad1fa9bb7d552fb4747c496076ad81fc4f94790a79f868702b60ebb0d8d07b053b4bc53e81b703eed227f58ab28e7"
+
+[update.modrinth]
+mod-id = "Hoj0HHPe"
+version = "QcEgMWSn"

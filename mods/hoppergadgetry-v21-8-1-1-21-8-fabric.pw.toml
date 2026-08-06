@@ -1,0 +1,12 @@
+name = "HopperGadgetry-v21.8.1-1.21.8-Fabric"
+filename = "HopperGadgetry-v21.8.1-1.21.8-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RCK4uOMN/versions/aFkzfUEP/HopperGadgetry-v21.8.1-1.21.8-Fabric.jar"
+hash-format = "sha512"
+hash = "430b89a9d294ab739f8f304679940b6b641f4d3b5046fdda3d80b429869f232e40e7b33b69e7819f0649350ebb4216f3624185d16cb9db284db2d1e941c52eba"
+
+[update.modrinth]
+mod-id = "RCK4uOMN"
+version = "aFkzfUEP"

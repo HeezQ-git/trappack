@@ -1,0 +1,13 @@
+name = "TrapPack"
+author = "HeezQ"
+version = "1.0.17"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d73dc01c451dfae2e71fb7b15fc8d64bb7723094a710fcb5ef1c304101641f8b"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.8"

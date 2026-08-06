@@ -1,0 +1,12 @@
+name = "craft-horse-armor-81"
+filename = "craft-horse-armor-81.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ua9u8yK9/versions/oezBHx2K/craft-horse-armor-81.jar"
+hash-format = "sha512"
+hash = "51d8aebbb424cdbdc8e3fea611974428936ea4c8a9a4cb29112b52946764188d6821b4edbbca1aa19ae9b9d22e1627c587ed4d3f479c49b9486aed9232961ab9"
+
+[update.modrinth]
+mod-id = "ua9u8yK9"
+version = "oezBHx2K"
