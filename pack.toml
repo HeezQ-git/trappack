@@ -1,12 +1,12 @@
 name = "TrapPack"
 author = "HeezQ"
-version = "1.0.163"
+version = "1.0.164"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2459739fe68b04d0a1073564532d0296c40cce576f00eaf3f7ecb69ca7a3e994"
+hash = "e3cabb8906ccfb661f581f890c6c0e7d87c56d62799fbdf1dbf5563326449792"
 
 [versions]
 fabric = "0.19.3"
