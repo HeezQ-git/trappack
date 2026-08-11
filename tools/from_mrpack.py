@@ -92,6 +92,8 @@ def main() -> None:
     # installer pulls them straight off the Pages site. That includes
     # trapcraft's jar, so it needs no separate hosting.
     copied = 0
+    fresh = set()
+    touched = set()
     for name in zin.namelist():
         if not name.startswith("overrides/") or name.endswith("/"):
             continue
@@ -100,10 +102,31 @@ def main() -> None:
         dest.parent.mkdir(parents=True, exist_ok=True)
         with zin.open(name) as src, open(dest, "wb") as out:
             shutil.copyfileobj(src, out)
+        fresh.add(dest.resolve())
+        touched.add(dest.parent.resolve())
         copied += 1
 
+    # Overrides need the same removal pass the metafiles get above, and used
+    # not to have one. A version bump writes trapcraft-0.2.0.jar and leaves
+    # trapcraft-0.1.0.jar sitting there, `packwiz refresh` indexes BOTH, and
+    # players get two jars declaring mod id "trapcraft" -- which Fabric will
+    # not load. It shipped that way for seventy pack versions.
+    #
+    # Safe because every legitimate file in these directories is either a CDN
+    # mod (a .pw.toml, which packwiz downloads at install time) or an override
+    # we just wrote. A real file that is neither is a leftover.
+    stale = 0
+    for folder in sorted(touched):
+        for found in folder.iterdir():
+            if not found.is_file() or found.suffix == ".toml":
+                continue
+            if found.resolve() not in fresh:
+                found.unlink()
+                print(f"  stale override removed: {found.relative_to(PACK)}")
+                stale += 1
+
     zin.close()
-    print(f"{written} mod metafiles, {copied} override files")
+    print(f"{written} mod metafiles, {copied} override files, {stale} stale removed")
     if unresolved:
         print(f"NOT auto-updatable ({len(unresolved)}): {', '.join(unresolved[:5])}")
     print("now run: packwiz refresh")
