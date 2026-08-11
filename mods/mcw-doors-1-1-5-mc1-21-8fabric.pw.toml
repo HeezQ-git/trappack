@@ -1,0 +1,12 @@
+name = "mcw-doors-1.1.5-mc1.21.8fabric"
+filename = "mcw-doors-1.1.5-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/perNqEEA/mcw-doors-1.1.5-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "fd94a32a2915be8d4dd271716128ceddd82662e1de9081f04126096527c4c70719e9f2ecd07b32cc1efcb4b1dab8e7baa68a45dd5f02bb5bcd0f351f4157f38c"
+
+[update.modrinth]
+mod-id = "kNxa8z3e"
+version = "perNqEEA"

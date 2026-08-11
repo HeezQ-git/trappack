@@ -1,0 +1,12 @@
+name = "mcw-lights-1.1.5-mc1.21.8fabric"
+filename = "mcw-lights-1.1.5-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w4an97C2/versions/YvXYFUrj/mcw-lights-1.1.5-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "486e97162da8b37995f8dbb38a6e4ce41864343ae8f4dbfe45a371b1e05e1bfab5986afbc348125972fc2b958d822c76991feb781181cde652053d905b52de32"
+
+[update.modrinth]
+mod-id = "w4an97C2"
+version = "YvXYFUrj"

@@ -1,0 +1,12 @@
+name = "mcw-mcwpaths-1.1.1-mc1.21.8fabric"
+filename = "mcw-mcwpaths-1.1.1-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VRLhWB91/versions/XXFxPuuB/mcw-mcwpaths-1.1.1-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "bcc24bc3ea8d8840322c10c177eb06aef146396c354026a5c86bd8c08dbeea39cf7ade10b54fee2623150549bdc71d5dbbcf00696ecf488fe0a73c764f3a5d76"
+
+[update.modrinth]
+mod-id = "VRLhWB91"
+version = "XXFxPuuB"

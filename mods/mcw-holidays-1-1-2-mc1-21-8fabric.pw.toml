@@ -1,0 +1,12 @@
+name = "mcw-holidays-1.1.2-mc1.21.8fabric"
+filename = "mcw-holidays-1.1.2-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/esz0EraM/mcw-holidays-1.1.2-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "0c5f29254ab0c2f8bc36aacee42bd3058b3800bdf6d1b76e8e4389b14577c7a35fa1084195114e797284ce08a0c5801473f79d9534567a55164f2f4b6555dcf8"
+
+[update.modrinth]
+mod-id = "rH20L2Lp"
+version = "esz0EraM"

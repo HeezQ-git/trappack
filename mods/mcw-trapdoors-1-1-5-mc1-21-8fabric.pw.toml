@@ -1,0 +1,12 @@
+name = "mcw-trapdoors-1.1.5-mc1.21.8fabric"
+filename = "mcw-trapdoors-1.1.5-mc1.21.8fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n2fvCDlM/versions/ztSDHSgA/mcw-trapdoors-1.1.5-mc1.21.8fabric.jar"
+hash-format = "sha512"
+hash = "a59aeb511e804b03e958cc8365d6541d8a87b6f6d349a69e39b2ce14a3eb1c42616de3a4ea5ff9f38fbacf0b90c7b5f0fdea5d624d94dcb46ce4cf986637463d"
+
+[update.modrinth]
+mod-id = "n2fvCDlM"
+version = "ztSDHSgA"

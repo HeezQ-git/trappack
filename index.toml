@@ -1422,13 +1422,33 @@ hash = "9e777a53d30f9c41f77bd1567b01a5cdb22d3ae4fdb070de14962ed0f0ec036d"
 metafile = true
 
 [[files]]
+file = "mods/mcw-doors-1-1-5-mc1-21-8fabric.pw.toml"
+hash = "27d54a49207bf05a60c30ecae039b2084d4fbacc1d8718615425836dbfa847f4"
+metafile = true
+
+[[files]]
 file = "mods/mcw-furniture-3-4-1-mc1-21-8fabric.pw.toml"
 hash = "6d0e4f36bc79c09147ba0c1c6e9655728f625ffac6bd009e389969fc17b865da"
 metafile = true
 
 [[files]]
+file = "mods/mcw-holidays-1-1-2-mc1-21-8fabric.pw.toml"
+hash = "7d14faf2c708bb6cdd6f93b5cece4c63ca7d1b7c51a15b2ef1a55a0bce1e0ea8"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1-1-5-mc1-21-8fabric.pw.toml"
+hash = "bcde2432c9e096696107cd64860cfa96a14a38b00b16b6d0bcfd1240724b69d8"
+metafile = true
+
+[[files]]
 file = "mods/mcw-mcwfences-1-2-1-mc1-21-8fabric.pw.toml"
 hash = "b28f8869b950a4821a6e065dd1f3507dcffbe1103088a85c75af8481edd736c4"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwpaths-1-1-1-mc1-21-8fabric.pw.toml"
+hash = "69ea0eb72bb31b3b35d8cb24645e08e3216162453e178854a6e5eae044d22883"
 metafile = true
 
 [[files]]
@@ -1449,6 +1469,11 @@ metafile = true
 [[files]]
 file = "mods/mcw-roofs-2-3-2-mc1-21-8fabric.pw.toml"
 hash = "3ed3d73a5959ecf5008ed509fc52d2f9579e05942f684fd6b982adee830f50e3"
+metafile = true
+
+[[files]]
+file = "mods/mcw-trapdoors-1-1-5-mc1-21-8fabric.pw.toml"
+hash = "6a3794d44ec455d0a1e05f7db6b7cf18d1348e3b28e5741d011e9d328cd3a3e9"
 metafile = true
 
 [[files]]
