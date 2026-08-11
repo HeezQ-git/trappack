@@ -1678,7 +1678,7 @@ metafile = true
 
 [[files]]
 file = "mods/trapcraft-0.2.0.jar"
-hash = "375ab4137294f8602b0bb7df7ddeda9f8adcce3432ceefb1e147d7dcbdf7dea8"
+hash = "bc032394babf6baca4e883a7541afe92a4cf144a0796b3735696f6dd03be97c9"
 
 [[files]]
 file = "mods/travelersbackpack-fabric-1-21-8-10-8-4.pw.toml"
