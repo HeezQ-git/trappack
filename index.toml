@@ -1537,6 +1537,11 @@ hash = "dc2966a43a42d9d567e5265cba117881adae008f369409b7df3fd1e7ca277014"
 metafile = true
 
 [[files]]
+file = "mods/paladin-furniture-mod-1-5-0-fabric-mc1-21-8.pw.toml"
+hash = "7290ba5c98986f38f91b5cd9396784703f4bbcf88a4f581bd5b9df8f18cdd80f"
+metafile = true
+
+[[files]]
 file = "mods/particlerain-4-0-0-beta-7-1-21-6-fabric.pw.toml"
 hash = "21eeda74725da27035e36e288a491414c135b82b4d8a2b09798995c3b115872c"
 metafile = true
@@ -1659,6 +1664,11 @@ metafile = true
 [[files]]
 file = "mods/stackedblocksfarmersdelight-25-07-31-1-21-7-fabric.pw.toml"
 hash = "df0345185e1b7339313c20c9850e7269ff00067f15157ab953c74add0572b9b0"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks-v21-8-0-1-21-8-fabric.pw.toml"
+hash = "68c22418d7c84c7dc9edac241608f004d3847785ef1d7ea9b5ad8cef3f370cfb"
 metafile = true
 
 [[files]]
