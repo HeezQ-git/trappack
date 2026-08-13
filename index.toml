@@ -1766,6 +1766,10 @@ hash = "39db33d995fa6b350a89c48e52e31271fa90b7c922ec49cd6b3ea6ecfabd8b40"
 metafile = true
 
 [[files]]
+file = "shaderpacks/Sildurs-Vibrant-Shaders-v2.01-Lite.zip"
+hash = "9c190bff0f33de2ce6b6d76256c3d0242fd082ff0e282cd5f8d1e02a13a734ed"
+
+[[files]]
 file = "shaderpacks/makeup-ultrafast-9-5c.pw.toml"
 hash = "ae93006e64956d886a9a92cbaa8b91fd60d1b47cc588a6e60ab6254d47953a37"
 metafile = true
